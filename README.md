@@ -3,7 +3,7 @@
 ## I am passionate about expanding my knowledge, enhancing code quality, learning and implementing new technologies, and delivering reliable, trustworthy solutions.
 
 - 👀 I’m interested in deepening my expertise in Java and Spring Boot framework.
-- 🌱🛠️ I’m currently creating projects to strengthen my portfolio.
+- 🌱🛠️ I’m currently creating projects to strengthen my knowledge and portfolio.
 - 🚀 Actively Seeking: Junior Java Developer Role
 - 👨‍💻 All of my projects are available at https://github.com/Hristov-Georgi?tab=repositories
 
