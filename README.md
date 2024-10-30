@@ -1,4 +1,4 @@
-# Hello there, I am Georgi Hristov 👋
+# Hello there 👋, I am Georgi Hristov.
 
 ## I am passionate about expanding my knowledge, enhancing code quality, learning and implementing new technologies, and delivering reliable, trustworthy solutions.
 
